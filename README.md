@@ -107,9 +107,9 @@ Access the application in your web browser by navigating to `http://localhost:50
 ---
 
 **Author**
-- Mukul Sharma (https://github.com/mukulsharma421)
+- Mudavath Ganesh (https://github.com/mudavathg145)
 
-- If you have any questions or need further assistance, feel free to contact me at mukulsharma9988a@gmail.com
+- If you have any questions or need further assistance, feel free to contact me at mudavathg145@gmail.com
 
 --- 
 This project is licensed under the MIT [License] . See the LICENSE file for more details.
